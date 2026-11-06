@@ -1,6 +1,1 @@
 # Git-Practicals
-
-
-
-
-## lesson hello
