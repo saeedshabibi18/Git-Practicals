@@ -1,2 +1,2 @@
 Hello this is saeed shabibi!
-i am using this file to demonstrate merge conflict
+i am using this file to demonstrates merge conflicts
